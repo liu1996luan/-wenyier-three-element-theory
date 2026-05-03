@@ -1,2 +1,2 @@
-# -wenyier-three-element-theory
-Chinese music grammar from the mud.  No chorus loops. No masters. No tours.  By Wen Yier. For anyone whose work is crying.  Root: China. Use: world. Bones weep when you steal their soul.
+#-wenyier三元论
+一个暴躁的文学创作者，新音乐的开发者，开源文件的书写者，他用最俗最恶心的话语，说出不一般的新体系，假如你也陷入了循环音乐的苦恼，请点开它，学习它。
